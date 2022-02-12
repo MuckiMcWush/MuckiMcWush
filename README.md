@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MuckiMcWush
+- 👀 I’m interested in Linux and the environment coming with it. Want to get into Data Science and Computer Science.
+- 🌱 I’m currently learning Linux environment, Fedora WS and Unraid Server.
+- 💞️ I’m looking to collaborate on, not yet, future plans!
+- 📫 How to reach me, does Github has a PM service? Else on Reddit @MuckiMcWush
